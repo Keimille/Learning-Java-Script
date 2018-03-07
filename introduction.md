@@ -1,5 +1,8 @@
 # Learning-Java-Script
-## Working with Strings
+
+## Introduction
+
+### Working with Strings
 
 Console.log() prints output of string or number - numbers do not have quotes
 
