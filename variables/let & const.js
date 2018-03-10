@@ -25,3 +25,7 @@ let changeMe = true;
 changeMe = false;
 console.log(changeMe);
 //output: false
+
+//an undefined variable is automatically set to undefined
+//example
+let Giancarlo; 
