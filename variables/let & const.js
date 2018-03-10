@@ -4,20 +4,20 @@
 
 //declare variables withl let const. const is short for constant
 
-const entree = 'Enchiladas';
+const entree = 'Fried Chicken';
 const price = 12;
 console.log(entree);
 console.log(price);
-//output: Enchiladas
+//output: Fried Chicken
 //output: 12
 
 //you can not assign to a constant a different variable
 //see example
-const entree = 'Enchiladas';
+const entree = 'Fried Chicken';
 const price = 12;
 console.log(entree);
 console.log(price);
-entree = 'Tacos';
+entree = 'Watermelon';
 //output: TypeError: Assignment to constant variable
 
 //let variables can be reassigned 
