@@ -5,5 +5,5 @@ I hope that othere will feel free to edit and make channges as I am learning Jav
 
 ## Useful and/or Fun links
 
-https://jsfiddle.net/f2Lommf5/2764/
-https://github.com/jensarps/Ascent/blob/master/README.md
+- https://jsfiddle.net/f2Lommf5/2764/
+- https://github.com/jensarps/Ascent/blob/master/README.md
