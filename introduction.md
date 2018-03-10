@@ -1,13 +1,9 @@
 # Learning-Java-Script
 
-## Introduction
+This reposotories lists some helpful links as well as examples that ru through the basic components of JavaScript.
+I hope that othere will feel free to edit and make channges as I am learning JavaScript myself.
 
-### Working with Strings
+## Useful and/or Fun links
 
-Console.log() prints output of string or number - numbers do not have quotes
-
-Math is done as a string - also no quotes
-
-## Methods
-
-Methods can be used with a string to modity output ex. - console.log('moog' .toUpperCase) changes moog to MOOG
+https://jsfiddle.net/f2Lommf5/2764/
+https://github.com/jensarps/Ascent/blob/master/README.md
