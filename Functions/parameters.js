@@ -17,7 +17,7 @@ takeOrder('thin crust','bacon');
 //output: Order: thin crust pizza topped with bacon
 
 // this next code took some time to wrap my head around. worth reviewing 
-
+// review the use of 'return'
 const orderCount = (0);
 const takeOrder = (crustType, topping, orderCount) => {
 orderCount = orderCount + 1;
